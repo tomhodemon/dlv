@@ -1,5 +1,6 @@
 __pycache__/
 annotations/
+runs/
 val2017/
 *.zip
 *.pth
