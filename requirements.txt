@@ -1,0 +1,5 @@
+ipykernel
+torch
+torchvision
+pycocotools
+tensorboard

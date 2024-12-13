@@ -4,3 +4,4 @@ runs/
 val2017/
 *.zip
 *.pth
+.venv/
